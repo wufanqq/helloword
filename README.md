@@ -1,3 +1,4 @@
 # helloword
-just a helloworld
-it is a test object to test git
+just a hello world project
+it is a test project to test git
+it a new banch to test
